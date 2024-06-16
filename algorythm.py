@@ -11,4 +11,4 @@ with open("sygnaly.txt") as file:
 for i in range(len(tablica)):
     print(tablica[i][9],end="")
     wyraz = tablica[i]
-    #print(wyraz[9])
+
